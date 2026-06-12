@@ -1,1 +1,1 @@
-# seasonal-occupancy-analysis
+# Seasonal Occupancy Analysis
