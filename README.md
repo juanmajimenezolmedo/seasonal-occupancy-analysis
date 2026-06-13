@@ -9,6 +9,7 @@ de cara a la planificación de la próxima temporada.]
 ## Dataset
 · Fuente: Hotel Booking Demand (Kaggle)
 · 119.384 registros tras limpieza, 34 columnas
+
 · Rango temporal: julio 2015 - agosto 2017
 
 ## Stack utilizado
