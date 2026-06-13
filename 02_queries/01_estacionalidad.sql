@@ -3,13 +3,7 @@
 · Pregunta de negocio: 
 ¿Cómo varían las reservas (volumen e ingresos) a lo largo del año? ¿Hay meses claramente fuertes/débiles?
 
-· Resultado: 
-1) El dataset cubre julio 2015 - agosto 2017 (26 meses).
-2) Los meses de verano (jun-ago) muestran el ADR más alto cada año, con crecimiento interanual claro en ADR e ingresos.
-3) Octubre suele tener el mayor volumen de reservas, aunque no el ADR más alto.
-
 */
-
 
 SELECT
     arrival_date_year,
@@ -35,3 +29,12 @@ ORDER BY arrival_date_year,
         WHEN 'November' THEN 11
         WHEN 'December' THEN 12
     END;
+
+/*
+
+· Resultado: 
+1) El dataset cubre julio 2015 - agosto 2017 (26 meses).
+2) Los meses de verano (jun-ago) muestran el ADR más alto cada año, con crecimiento interanual claro en ADR e ingresos.
+3) Octubre suele tener el mayor volumen de reservas, aunque no el ADR más alto.
+
+*/
