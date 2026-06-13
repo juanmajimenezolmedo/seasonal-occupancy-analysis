@@ -1,4 +1,4 @@
-# Análisis de Ocupación Estacional - Hotel Booking Demand
+# Análisis de Ocupación Estacional
 
 ## Contexto
 [Breve descripción del "rol": eres analista de datos para una empresa 
