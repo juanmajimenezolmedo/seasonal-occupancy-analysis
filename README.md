@@ -8,6 +8,7 @@ de cara a la planificación de la próxima temporada.]
 
 ## Dataset
 · Fuente: Hotel Booking Demand (Kaggle)
+
 · 119.384 registros tras limpieza, 34 columnas
 
 · Rango temporal: julio 2015 - agosto 2017
@@ -24,11 +25,14 @@ del año? ¿Hay meses claramente fuertes/débiles?
 
 **Hallazgos:**
 · El dataset cubre julio 2015 - agosto 2017 (26 meses).
+
 · Los meses de verano (junio-agosto) muestran consistentemente el ADR 
   (precio medio) más alto de cada año.
+
 · Octubre suele tener el mayor volumen de reservas, aunque no el ADR 
   más alto, lo que indica que volumen alto no siempre coincide con 
   mayor rentabilidad por reserva.
+
 · Hay una tendencia de crecimiento interanual clara, tanto en ADR como 
   en ingresos (ej. julio: 97,83€ en 2015 → 143,04€ en 2017).
 
