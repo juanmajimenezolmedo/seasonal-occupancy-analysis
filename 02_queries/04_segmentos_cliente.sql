@@ -30,3 +30,13 @@ SELECT
 FROM hotel_bookings
 GROUP BY customer_type
 ORDER BY ingresos_estimados DESC;
+
+/*
+
+· Resultado:
+1) Portugal lidera en volumen (48.584 reservas) pero tiene la peor tasa de confirmación (43,37%). Francia y Alemania confirman >81% con ADR superiores.
+2) USA y Bélgica tienen ADR altos (118,98€ y 111,48€) con volumen moderado: mercados con potencial de crecimiento.
+3) Transient domina en ingresos (5,56M€) pero confirma solo el 59,25%.Group tiene la mejor confirmación (89,77%) pero volumen muy bajo.
+
+
+*/

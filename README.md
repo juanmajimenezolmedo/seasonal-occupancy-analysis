@@ -12,9 +12,9 @@ de cara a la planificación de la próxima temporada.]
 - Rango temporal: julio 2015 - agosto 2017
 
 ## Stack utilizado
-- Python (pandas) para limpieza 
-- PostgreSQL para análisis 
-- Power BI / Tableau para visualización
+- Python (pandas) para limpieza
+- PostgreSQL para análisis
+- Power BI y Tableau para visualización
 
 ## Preguntas de negocio e insights
 
