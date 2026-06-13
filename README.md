@@ -1,4 +1,4 @@
-# Análisis de Ocupación Estacional - Hotel Booking Demand
+# Análisis de Ocupación Estacional
 
 ## Contexto
 [Breve descripción del "rol": eres analista de datos para una empresa 
@@ -12,11 +12,12 @@ de cara a la planificación de la próxima temporada.]
 - Rango temporal: julio 2015 - agosto 2017
 
 ## Stack utilizado
-Python (pandas) para limpieza · PostgreSQL para análisis · Power BI / Tableau para visualización
+- Python (pandas) para limpieza 
+- PostgreSQL para análisis 
+- Power BI / Tableau para visualización
 
 ## Preguntas de negocio e insights
 
-### 1. Estacionalidad
 ### 1. Estacionalidad
 
 **Pregunta:** ¿Cómo varían las reservas (volumen e ingresos) a lo largo 
