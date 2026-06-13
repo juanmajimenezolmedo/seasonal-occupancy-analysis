@@ -17,7 +17,6 @@ Python (pandas) para limpieza · PostgreSQL para análisis · Power BI / Tableau
 ## Preguntas de negocio e insights
 
 ### 1. Estacionalidad
-### 1. Estacionalidad
 
 **Pregunta:** ¿Cómo varían las reservas (volumen e ingresos) a lo largo 
 del año? ¿Hay meses claramente fuertes/débiles?
