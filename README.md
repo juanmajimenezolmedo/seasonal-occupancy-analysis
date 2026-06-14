@@ -33,7 +33,7 @@ del año? ¿Hay meses claramente fuertes/débiles?
 - Hay una tendencia de crecimiento interanual clara, tanto en ADR como 
   en ingresos (ej. julio: 97,83€ en 2015 → 143,04€ en 2017).
 
-**Recomendación:** las campañas de marketing en temporada baja 
+**Recomendación:** Las campañas de marketing en temporada baja 
 (enero-febrero) podrían enfocarse en captar volumen, mientras que en 
 temporada alta el foco debería estar en revenue management 
 (optimización de precios) más que en captación adicional.
@@ -56,7 +56,7 @@ canal de distribución, tipo de hotel o antelación de la reserva?
   meses de antelación cancelan un 57%, frente a solo un 9,62% en las 
   reservas de última semana.
 
-**Recomendación:** revisar las políticas de cancelación en los canales 
+**Recomendación:** Revisar las políticas de cancelación en los canales 
 TA/TO y para reservas con alta antelación (>90 días), considerando 
 depósitos no reembolsables o confirmaciones escalonadas. El canal 
 directo, al ser el más estable, debería potenciarse mediante campañas 
@@ -82,7 +82,7 @@ mejor "calidad" (menos cancelaciones, mayor ADR)?
 - Complementary tiene la mayor tasa de confirmación (86,94%) pero un 
   ADR simbólico (3,08€), coherente con reservas cortesía/gratuitas.
 
-**Recomendación:** potenciar el canal directo (web propia, email 
+**Recomendación:** Potenciar el canal directo (web propia, email 
 marketing, fidelización) dado que ofrece el mejor equilibrio entre 
 ADR alto y baja cancelación. Para TA/TO, negociar condiciones de 
 cancelación más estrictas o depósitos anticipados para reducir la 
@@ -116,7 +116,7 @@ Por tipo de cliente:
 - Group tiene la mejor tasa de confirmación (89,77%) pero representa 
   un volumen muy pequeño (577 reservas).
 
-**Recomendación:** investigar las causas de la alta cancelación en 
+**Recomendación:** Investigar las causas de la alta cancelación en 
 el mercado portugués (¿políticas de cancelación gratuita?, ¿reservas 
 especulativas?). Invertir en captación de mercados con ADR alto y 
 buena confirmación como USA, Bélgica y Francia. Para el tipo de 
