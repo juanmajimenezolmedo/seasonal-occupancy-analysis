@@ -1,20 +1,27 @@
 # Análisis de Ocupación Estacional
 
 ## Contexto
-[Breve descripción del "rol": eres analista de datos para una empresa 
-de gestión hotelera, y el equipo de Revenue te ha pedido un análisis 
-sobre patrones de reservas, cancelaciones y rendimiento por canal, 
-de cara a la planificación de la próxima temporada.]
+
+Este proyecto simula el trabajo de un analista de datos junior en una 
+empresa de gestión hotelera. El equipo de Revenue ha solicitado un 
+análisis sobre el comportamiento de las reservas del último periodo 
+disponible, con el objetivo de identificar patrones de estacionalidad, 
+factores críticos en las cancelaciones, rendimiento de los canales de 
+venta y el valor de los distintos segmentos de clientes, todo ello 
+orientado a optimizar las inversiones en marketing y ajustar las 
+políticas comerciales de la compañía.
 
 ## Dataset
+
 - Fuente: Hotel Booking Demand (Kaggle)
 - 119.384 registros tras limpieza, 34 columnas
 - Rango temporal: julio 2015 - agosto 2017
 
 ## Stack utilizado
+
 - Python (pandas) para limpieza
 - PostgreSQL para análisis
-- Power BI y Tableau para visualización
+- Power BI para visualización
 
 ## Preguntas de negocio e insights
 
@@ -125,7 +132,35 @@ similares a las recomendadas para TA/TO (depósitos, confirmaciones
 escalonadas).
 
 ## Dashboard
-[Capturas/enlaces cuando estén listos]
+![Dashboard 1](03_dashboard/dashboard_1_vision_general.png)
+![Dashboard 1](03_dashboard/dashboard_2_cancelaciones.png)
 
 ## Recomendaciones generales
-[Resumen final, una vez completadas todas las preguntas]
+
+1. **Potenciar el canal directo:** ofrece el mejor equilibrio entre 
+   ADR alto (106€) y baja cancelación (17,46%). Invertir en web 
+   propia, email marketing y programas de fidelización.
+
+2. **Revisar políticas de cancelación en TA/TO:** con un 41% de 
+   cancelación, es prioritario negociar depósitos anticipados o 
+   condiciones más estrictas con agencias y touroperadores.
+
+3. **Gestionar la antelación de reserva:** las reservas con más de 
+   90 días de antelación cancelan por encima del 44%. Implementar 
+   confirmaciones escalonadas o depósitos no reembolsables para 
+   reservas anticipadas.
+
+4. **Investigar el mercado portugués:** pese a ser el mercado 
+   líder en volumen, su tasa de confirmación (43%) es la más baja 
+   del top 10, lo que sugiere un problema estructural de 
+   cancelación que merece análisis específico.
+
+5. **Capitalizar mercados de alto valor:** USA y Bélgica presentan 
+   los ADR más altos del top 10 con volúmenes aún moderados, lo 
+   que los convierte en mercados prioritarios para campañas de 
+   captación rentable.
+
+6. **Optimizar pricing en temporada alta:** el ADR crece 
+   interanualmente (julio: 97€ en 2015 → 143€ en 2017), lo que 
+   indica margen para estrategias de revenue management más 
+   agresivas en los meses de verano.
