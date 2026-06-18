@@ -132,8 +132,12 @@ similares a las recomendadas para TA/TO (depósitos, confirmaciones
 escalonadas).
 
 ## Dashboard
+
+### Dashboard 1 — Visión General y Estacionalidad
 ![Dashboard 1](03_dashboard/dashboard_1_vision_general.png)
-![Dashboard 1](03_dashboard/dashboard_2_cancelaciones.png)
+
+### Dashboard 2 — Cancelaciones y Canales
+![Dashboard 2](03_dashboard/dashboard_2_cancelaciones.png)
 
 ## Recomendaciones generales
 
